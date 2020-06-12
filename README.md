@@ -13,4 +13,5 @@ Nota: Este proyecto solo se ha utilizado en Windows y depende del software "Simp
 ## Más información
 
 E-mail: nextsigner@gmail.com
+
 Whatsapp: +54 11 3802 4370
