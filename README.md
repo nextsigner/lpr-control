@@ -2,7 +2,7 @@
 
 ## Video de Ejemplo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PhbxcjC6Mw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=PhbxcjC6Mw0
 
 ##Documentación
 
