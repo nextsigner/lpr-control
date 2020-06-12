@@ -6,8 +6,6 @@
 #include <QCameraInfo>
 #include <QtWidgets>
 
-#include <tchar.h>
-#include <windows.h>
 
 Q_DECLARE_METATYPE(QCameraInfo)
 

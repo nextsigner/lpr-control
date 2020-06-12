@@ -12,8 +12,9 @@
 //#include "targetver.h"
 
 #include <stdio.h>
+#ifdef Q_OS_WIN
 #include <tchar.h>
-
+#endif
 
 
 // TODO: mencionar aquí los encabezados adicionales que el programa necesita

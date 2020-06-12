@@ -8,7 +8,11 @@
 #include <QtMultimedia/QMediaRecorder>
 
 #include <QMainWindow>
+#ifdef Q_OS_WIN
 #include <Windows.h>
+#include <tchar.h>
+#include <windows.h>
+#endif
 #include <QtMultimediaWidgets/QVideoWidget>
 
 #include <QTimer>
